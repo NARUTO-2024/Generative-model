@@ -1,9 +1,6 @@
 # Generative-model
 Detailed documentation of my own important process of learning to generate models. Includes historically reproduced code sets and innovations in my work.
 
-The branches are model-specific codes. The following is categorized by key theoretical models and practical problem models. The categorization will increase as the code is updated. (Model follow-up files are code files with added comments and some understanding reflections)
-
-Key theoretical models:
-VAE:
+Code files for adding comments and some understanding of thinking in VAE models: dataset.py , experiment.py , models\vq_vae.py
 
 
