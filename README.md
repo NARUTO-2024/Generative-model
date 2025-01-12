@@ -18,3 +18,6 @@ S-Lab, Nanyang Technological University
 
 ### Details
 - **2024.06.28**: Accepted by [IJCV](https://link.springer.com/journal/11263). See the latest [Full paper](https://github.com/IceClear/StableSR/releases/download/UncompressedPDF/StableSR_IJCV_Uncompressed.pdf).
+Detailed documentation of my own important process of learning to generate models. Includes historically reproduced code sets and innovations in my work.
+
+Code files for adding comments and some thinking about understanding in the StableSR model:
