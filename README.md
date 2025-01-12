@@ -19,5 +19,7 @@ Please cite the following if you use this code in your work.
 
 ## Details
 
+Detailed documentation of my own important process of learning to generate models. Includes historically reproduced code sets and innovations in my work. 
 
+Code files for adding comments and some thinking about understanding in the IDDPM model: 111\AC W-GAN for hyperspectral data.ipynb
 
