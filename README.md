@@ -3,4 +3,8 @@ Detailed documentation of my own important process of learning to generate model
 
 The branches are model-specific codes. The following is categorized by key theoretical models and practical problem models. The categorization will increase as the code is updated. 
 Key theoretical models:
-VAE , VQGAN , 
+VAE , VQGAN , IDDPM , StableSR , ControlNet
+
+practical problem models:
+
+
