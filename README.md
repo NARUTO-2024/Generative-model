@@ -6,5 +6,5 @@ Key theoretical models:
 VAE , VQGAN , IDDPM , StableSR , ControlNet
 
 practical problem models:
-
+MST++ , HyperGANs
 
