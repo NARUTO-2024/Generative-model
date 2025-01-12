@@ -7,7 +7,7 @@
 [Björn Ommer](https://hci.iwr.uni-heidelberg.de/Staff/bommer)<br/>
 \* equal contribution
 
-**tl;dr** We combine the efficiancy of convolutional approaches with the expressivity of transformers by introducing a convolutional VQGAN, which learns a codebook of context-rich visual parts, whose composition is modeled with an autoregressive transformer.
+**tl;dr** Detailed documentation of my own important process of learning to generate models. Includes historically reproduced code sets and innovations in my work.Code files for adding comments and some understanding of thinking in VAE models: main.py , taming\models\vqgan.py , taming\models\cond_transformer.py
 
 ![teaser](assets/teaser.png)
 [arXiv](https://arxiv.org/abs/2012.09841) | [BibTeX](#bibtex) | [Project Page](https://compvis.github.io/taming-transformers/)
